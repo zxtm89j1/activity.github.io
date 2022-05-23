@@ -1,0 +1,33 @@
+form {
+    width: 50%;
+    
+}
+
+.main-container-username {
+    display: flex;
+}
+
+.tag-username {
+    flex: 1;
+}
+
+.input-username {
+    flex: 1;
+}
+
+input {
+    width: 100%;
+}
+
+.input-username {
+    width: 100%;
+    background-color: pink;
+}
+
+button {
+    width: 100%;
+}
+
+td {
+    border: solid 1px black;
+}
